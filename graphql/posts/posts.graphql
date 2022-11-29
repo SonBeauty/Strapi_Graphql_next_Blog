@@ -1,0 +1,9 @@
+query posts {
+  posts {
+    data {
+      attributes {
+        title
+      }
+    }
+  }
+}
